@@ -470,7 +470,7 @@ public class StudentMarksSystem {
         }
     }
     
-    private static void MarksOperations() throws SQLException {
+    private static void marksOperations() throws SQLException {
         boolean back = false;
         while (!back) {
             System.out.println("\nMarks Operations");
